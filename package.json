@@ -1,0 +1,19 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Just a test App for Azure Appp service to tst Node ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benease/Node-server-simple-hello-world.git"
+  },
+  "author": "Ben",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benease/Node-server-simple-hello-world/issues"
+  },
+  "homepage": "https://github.com/Benease/Node-server-simple-hello-world#readme"
+}
